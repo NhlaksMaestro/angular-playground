@@ -1,1 +1,23 @@
-# angularplayground
+{
+  "name": "angular-playground",
+  "description": "dependencies for SAT 24 hrs",
+  "main": "index.js",
+  "authors": [
+    "NhlaksMaestro"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "angular": "^1.5.8",
+    "jquery": "^3.1.0",
+    "react": "^15.3.0",
+    "angular-ui-router": "^0.3.1",
+    "createjs-collection": "^0.8.1"
+  }
+}
